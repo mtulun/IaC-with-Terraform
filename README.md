@@ -6,7 +6,7 @@ You can have credentials for many diffrent AWS accounts in the same credentials 
 
 By default, the credentials file is stored here:
 
-• On Windows: C:\Users\username\.aws\credentials
+• On Windows: C:\Users\username\ .aws\credentials
 
 • On Mac/Linux: ~/.aws/credentials
 
